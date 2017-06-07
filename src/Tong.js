@@ -1,3 +1,7 @@
+/**
+ * TODO: 雪糕筒类
+ * date: 2017-6-7
+ */
 var Tong = (function(_super){
     function Tong(){
         Tong.super(this);

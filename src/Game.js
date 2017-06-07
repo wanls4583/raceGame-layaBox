@@ -1,3 +1,7 @@
+/**
+ * TODO: 游戏逻辑类
+ * date: 2017-6-7
+ */
 (function(){
     Laya.init(640,400);
     Laya.stage.scaleMode = Laya.Stage.SCALE_EXACTFIT
